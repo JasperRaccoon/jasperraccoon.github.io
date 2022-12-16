@@ -2,9 +2,9 @@ TeamSeasInterstitialInterval,5
 TeamSeasBannerAd,0
 MikeSpaceInterstitialInterval,2
 MikeSpaceBannerAd,0
-MTHInterstitialInterval,5
+MTHInterstitialInterval,99999999
 MTHBannerAd,0
-EHInterstitialInterval,2
+EHInterstitialInterval,99999999
 EHBannerAd,0
-EasiestInterstitialInterval,10
+EasiestInterstitialInterval,99999999
 EasiestBannerAd,0
