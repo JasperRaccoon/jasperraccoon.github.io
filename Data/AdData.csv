@@ -1,12 +1,13 @@
 TeamSeasInterstitialInterval,5
 TeamSeasBannerAd,0
-TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4
+TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4,https://play.google.com/store/apps/details?id=com.JasperDev.TeamSeas
 MikeSpaceInterstitialInterval,2
 MikeSpaceBannerAd,0
 MTHInterstitialInterval,3
 MTHBannerAd,0
-MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4
+MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4,https://play.google.com/store/apps/details?id=com.ArakumaStudio.MonsterTruckHunter
 EHInterstitialInterval,3
 EHBannerAd,0
+EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://play.google.com/store/apps/details?id=com.ArakumaStudio.EventHorizon
 EasiestInterstitialInterval,10
 EasiestBannerAd,0
