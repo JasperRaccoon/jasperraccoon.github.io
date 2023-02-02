@@ -1,14 +1,14 @@
 TeamSeasInterstitialInterval,5
 TeamSeasBannerAd,0
-TeamSeasFakeAdFrequency,100
-TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4,https://play.google.com/store/apps/details?id=com.JasperDev.TeamSeas,https://jasperdev.io/Data/MyAds/ICONS/TeamSeasICON.png,_DOWNLOADBUTTON,MrBeast Team Seas
+TeamSeasFakeAdFrequency,15
+TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4,https://bit.ly/TeamSeasGame,https://jasperdev.io/Data/MyAds/ICONS/TeamSeasICON.png,_DOWNLOADBUTTON,MrBeast Team Seas
 MikeSpaceInterstitialInterval,2
 MikeSpaceBannerAd,0
 MTHInterstitialInterval,3
 MTHBannerAd,0
-MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4,https://play.google.com/store/apps/details?id=com.ArakumaStudio.MonsterTruckHunter,https://jasperdev.io/Data/MyAds/ICONS/MTHICON.png,_DOWNLOADBUTTON,Monster Truck Hunter
+MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4,https://bit.ly/MTHGAME,https://jasperdev.io/Data/MyAds/ICONS/MTHICON.png,_DOWNLOADBUTTON,Monster Truck Hunter
 EHInterstitialInterval,3
 EHBannerAd,0
-EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://play.google.com/store/apps/details?id=com.ArakumaStudio.EventHorizon,https://jasperdev.io/Data/MyAds/ICONS/EHICON.png,_DOWNLOADBUTTON,Event Horizon
+EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://bit.ly/EventHorizonGame,https://jasperdev.io/Data/MyAds/ICONS/EHICON.png,_DOWNLOADBUTTON,Event Horizon
 EasiestInterstitialInterval,10
 EasiestBannerAd,0
