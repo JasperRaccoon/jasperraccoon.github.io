@@ -6,7 +6,7 @@ MikeSpaceInterstitialInterval,2
 MikeSpaceBannerAd,0
 MTHInterstitialInterval,3
 MTHBannerAd,0
-MTHFakeAdFrequency,100
+MTHFakeAdFrequency,10
 MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4,https://bit.ly/MTHGAME,https://jasperdev.io/Data/MyAds/ICONS/MTHICON.png,_DOWNLOADBUTTON,Monster Truck Hunter
 EHInterstitialInterval,3
 EHBannerAd,0
