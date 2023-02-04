@@ -4,6 +4,7 @@ TeamSeasFakeAdFrequency,15
 TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4,https://bit.ly/TeamSeasGame,https://jasperdev.io/Data/MyAds/ICONS/TeamSeasICON.png,_DOWNLOADBUTTON,MrBeast Team Seas
 MikeSpaceInterstitialInterval,2
 MikeSpaceBannerAd,0
+MikeSpaceFakeAdFrequency,10
 MTHInterstitialInterval,3
 MTHBannerAd,0
 MTHFakeAdFrequency,10
