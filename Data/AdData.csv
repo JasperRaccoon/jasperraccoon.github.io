@@ -1,19 +1,19 @@
-TeamSeasInterstitialInterval,3
+TeamSeasInterstitialInterval,2
 TeamSeasBannerAd,0
-TeamSeasFakeAdFrequency,25
+TeamSeasFakeAdFrequency,30
 TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4,https://bit.ly/TeamSeasGame,https://jasperdev.io/Data/MyAds/ICONS/TeamSeasICON.png,_DOWNLOADBUTTON,MrBeast Team Seas
 MikeSpaceInterstitialInterval,2
 MikeSpaceBannerAd,0
 MikeSpaceFakeAdFrequency,100
-MTHInterstitialInterval,3
+MTHInterstitialInterval,2
 MTHBannerAd,0
 MTHFakeAdFrequency,10
 MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4,https://bit.ly/MTHGAME,https://jasperdev.io/Data/MyAds/ICONS/MTHICON.png,_DOWNLOADBUTTON,Monster Truck Hunter
-EHInterstitialInterval,3
+EHInterstitialInterval,2
 EHBannerAd,0
 EHFakeAdFrequency,10
 EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://bit.ly/EventHorizonGame,https://jasperdev.io/Data/MyAds/ICONS/EHICON.png,_DOWNLOADBUTTON,Event Horizon
-EasiestInterstitialInterval,10
+EasiestInterstitialInterval,100
 EasiestBannerAd,0
 BuffTRAILERENGLISH,https://jasperdev.io/Data/MyAds/BuffTRAILERENGLISH.mp4,https://bit.ly/3YbQLyE,https://jasperdev.io/Data/MyAds/ICONS/BUFFICON.png,_DOWNLOADBUTTON,BUFF REWARDS
 BuffTRAILERSPANISH,https://jasperdev.io/Data/MyAds/BuffTRAILERSPANISH.mp4,https://bit.ly/3YbQLyE,https://jasperdev.io/Data/MyAds/ICONS/BUFFICON.png,_DOWNLOADBUTTON,PREMIOS BUFF
