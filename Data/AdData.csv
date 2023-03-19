@@ -13,7 +13,7 @@ EHInterstitialInterval,2
 EHBannerAd,0
 EHFakeAdFrequency,10
 EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://bit.ly/EventHorizonGame,https://jasperdev.io/Data/MyAds/ICONS/EHICON.png,_DOWNLOADBUTTON,Event Horizon
-EasiestInterstitialInterval,10
+EasiestInterstitialInterval,100
 EasiestBannerAd,0
 EasiestFakeAdFrequency,25
 BuffTRAILERENGLISH,https://jasperdev.io/Data/MyAds/BuffTRAILERENGLISH.mp4,https://bit.ly/3YbQLyE,https://jasperdev.io/Data/MyAds/ICONS/BUFFICON.png,_DOWNLOADBUTTON,BUFF REWARDS
