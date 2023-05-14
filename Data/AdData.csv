@@ -2,7 +2,7 @@ TeamSeasInterstitialInterval,2
 TeamSeasBannerAd,0
 TeamSeasFakeAdFrequency,30
 TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4,https://bit.ly/TeamSeasGame,https://jasperdev.io/Data/MyAds/ICONS/TeamSeasICON.png,_DOWNLOADBUTTON,MrBeast Team Seas
-MikeSpaceInterstitialInterval,3
+MikeSpaceInterstitialInterval,2
 MikeSpaceBannerAd,0
 MikeSpaceFakeAdFrequency,10
 MTHInterstitialInterval,2
@@ -16,7 +16,7 @@ EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://bit.ly/EventHori
 EasiestInterstitialInterval,50
 EasiestBannerAd,0
 EasiestFakeAdFrequency,25
-TEAMSEASRTXInterstitialInterval,3
+TEAMSEASRTXInterstitialInterval,2
 TEAMSEASRTXBannerAd,0
 TEAMSEASRTXFakeAdFrequency,10
 TEAMSEASRTXTRAILER,https://jasperdev.io/Data/MyAds/TEAMSEASRTXTRAILER.mp4,https://bit.ly/TSRTX,https://jasperdev.io/Data/MyAds/ICONS/TEAMSEASRTXICON.png,_DOWNLOADBUTTON,MrBeast TeamSeas RTX
