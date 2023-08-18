@@ -22,7 +22,7 @@ TEAMSEASRTXBannerAd,0
 TEAMSEASRTXFakeAdFrequency,5
 TEAMSEASRTXTRAILER,https://jasperdev.io/Data/MyAds/TEAMSEASRTXTRAILER.mp4,https://bit.ly/TSRTX,https://jasperdev.io/Data/MyAds/ICONS/TEAMSEASRTXICON.png,_DOWNLOADBUTTON,MrBeast TeamSeas RTX
 TEAMSEASRTXCurrentVer,17
-TOILETInterstitialInterval,2
+TOILETInterstitialInterval,1
 TOILETBannerAd,0
 TOILETFakeAdFrequency,5
 TOILETCurrentVer,7
