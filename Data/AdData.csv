@@ -15,6 +15,7 @@ EHFakeAdFrequency,1
 EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://bit.ly/EventHorizonGame,https://jasperdev.io/Data/MyAds/ICONS/EHICON.png,_DOWNLOADBUTTON,Event Horizon
 EasiestInterstitialInterval,50
 EasiestFakeAdFrequency,1
+EasiestCurrentVer,8
 TEAMSEASRTXInterstitialInterval,1
 TEAMSEASRTXFakeAdFrequency,5
 TEAMSEASRTXTRAILER,https://jasperdev.io/Data/MyAds/TEAMSEASRTXTRAILER.mp4,https://bit.ly/TSRTX,https://jasperdev.io/Data/MyAds/ICONS/TEAMSEASRTXICON.png,_DOWNLOADBUTTON,MrBeast TeamSeas RTX
