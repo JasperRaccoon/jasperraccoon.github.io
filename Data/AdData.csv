@@ -12,6 +12,7 @@ MTHCurrentVer,17
 MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4,https://bit.ly/MTHGAME,https://jasperdev.io/Data/MyAds/ICONS/MTHICON.png,_DOWNLOADBUTTON,Monster Truck Hunter
 EHInterstitialInterval,1
 EHFakeAdFrequency,1
+EHCurrentVer,10
 EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://bit.ly/EventHorizonGame,https://jasperdev.io/Data/MyAds/ICONS/EHICON.png,_DOWNLOADBUTTON,Event Horizon
 EasiestInterstitialInterval,50
 EasiestFakeAdFrequency,1
