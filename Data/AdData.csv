@@ -28,6 +28,6 @@ TOILETHuntLB,CgkIoZ3OiIsYEAIQAg
 TOILETFlappyLB,CgkIoZ3OiIsYEAIQAw
 TOILETDashLB,CgkIoZ3OiIsYEAIQBA
 TOILETLaserLB,CgkIoZ3OiIsYEAIQBQ
-DOUInterstitialInterval,10
-DOUFakeAdFrequency,100
+DOUInterstitialInterval,100
+DOUFakeAdFrequency,0
 DOUCurrentVer,1
