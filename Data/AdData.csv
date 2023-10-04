@@ -29,5 +29,5 @@ TOILETFlappyLB,CgkIoZ3OiIsYEAIQAw
 TOILETDashLB,CgkIoZ3OiIsYEAIQBA
 TOILETLaserLB,CgkIoZ3OiIsYEAIQBQ
 DOUInterstitialInterval,100
-DOUFakeAdFrequency,0
+DOUFakeAdFrequency,100
 DOUCurrentVer,1
