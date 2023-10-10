@@ -23,6 +23,6 @@ TEAMSEASRTXTRAILER,https://jasperdev.io/Data/MyAds/TEAMSEASRTXTRAILER.mp4,https:
 TEAMSEASRTXCurrentVer,18
 TOILETInterstitialInterval,1
 TOILETFakeAdFrequency,1
-DOUInterstitialInterval,2
+DOUInterstitialInterval,200
 DOUFakeAdFrequency,1
 DOUCurrentVer,4
