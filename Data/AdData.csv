@@ -25,7 +25,7 @@ TOILETInterstitialInterval,1
 TOILETFakeAdFrequency,1
 DOUInterstitialInterval,1
 DOUFakeAdFrequency,1
-DOUCurrentVer,20
+DOUCurrentVer,23
 TurboInterstitialInterval,1
 TurboFakeAdFrequency,1
-TurboCurrentVer,1
+TurboCurrentVer,8
