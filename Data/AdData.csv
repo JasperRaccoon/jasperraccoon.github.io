@@ -1,5 +1,4 @@
 TeamSeasInterstitialInterval,1
-TeamSeasBannerAd,0
 TeamSeasFakeAdFrequency,1
 TeamSeasCurrentVer,32
 TeamSeasTestAds,1
@@ -7,17 +6,6 @@ TeamSeasTRAILER,https://jasperdev.io/Data/MyAds/TeamSeasTRAILER.mp4,https://bit.
 MikeSpaceInterstitialInterval,1
 MikeSpaceFakeAdFrequency,5
 MikeSpaceCurrentVer,10
-MTHInterstitialInterval,1
-MTHFakeAdFrequency,5
-MTHCurrentVer,17
-MTHTRAILER,https://jasperdev.io/Data/MyAds/MTHTRAILER.mp4,https://bit.ly/MTHGAME,https://jasperdev.io/Data/MyAds/ICONS/MTHICON.png,_DOWNLOADBUTTON,Monster Truck Hunter
-EHInterstitialInterval,1
-EHFakeAdFrequency,1
-EHCurrentVer,10
-EHTRAILER,https://jasperdev.io/Data/MyAds/EHTRAILER.mp4,https://bit.ly/EventHorizonGame,https://jasperdev.io/Data/MyAds/ICONS/EHICON.png,_DOWNLOADBUTTON,Event Horizon
-EasiestInterstitialInterval,50
-EasiestFakeAdFrequency,1
-EasiestCurrentVer,8
 TEAMSEASRTXInterstitialInterval,1
 TEAMSEASRTXFakeAdFrequency,5
 TEAMSEASRTXTRAILER,https://jasperdev.io/Data/MyAds/TEAMSEASRTXTRAILER.mp4,https://bit.ly/TSRTX,https://jasperdev.io/Data/MyAds/ICONS/TEAMSEASRTXICON.png,_DOWNLOADBUTTON,MrBeast TeamSeas RTX
