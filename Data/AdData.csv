@@ -30,3 +30,6 @@ DOUCurrentVer,25
 TurboInterstitialInterval,1
 TurboFakeAdFrequency,1
 TurboCurrentVer,8
+AWITAInterstitialInterval,1
+AWITAFakeAdFrequency,1
+AWITACurrentVer,1
