@@ -13,6 +13,7 @@ TOILETFakeAdFrequency,1
 DOUInterstitialInterval,1
 DOUFakeAdFrequency,1
 DOUCurrentVer,26
+DOUShowDebugConsole,1
 TurboInterstitialInterval,1
 TurboFakeAdFrequency,1
 TurboCurrentVer,8
