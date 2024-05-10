@@ -10,7 +10,7 @@ TEAMSEASRTXFakeAdFrequency,5
 TEAMSEASRTXCurrentVer,21
 DOUInterstitialInterval,1
 DOUFakeAdFrequency,1
-DOUCurrentVer,30
+DOUCurrentVer,34
 DOUShowDebugConsole,0
 TurboInterstitialInterval,1
 TurboFakeAdFrequency,1
