@@ -341,15 +341,7 @@ video.unrulymedia.com, 322585001, RESELLER
 adiiix.com, 3de5db9, RESELLER
 fromthetop.io, 65529, RESELLER
 
-#Loopme#
-
-loopme.com,13924,RESELLER,6c8d5f95897a5a3b
-conversantmedia.com, 100246, RESELLER, 03113cd04947736d
-bold-win.com, 165, RESELLER, 71746737d0bab951
-eliteappgrade.com, 494350, RESELLER
-pokkt.com, 7606, RESELLER, c45702d9311e25fd
-appads.in, 107606, RESELLER
-Eskimi.com, eas-2020000005, RESELLER
-markappmedia.site, 313916, RESELLER
-boostappi.com, 10013, RESELLER
+SMART
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 wortise.com, f329747f-2486-4b1d-ae19-e1b39c5b4b12, DIRECT
