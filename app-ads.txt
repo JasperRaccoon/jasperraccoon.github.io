@@ -1190,3 +1190,4 @@ zoomd.com,88478941,RESELLER
 pangleglobal.com, 5005768, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 wortise.com, dc3477db-de8f-4984-b8e1-bdfa584c8e9e, DIRECT
+wortise.com, c44ddb94-ab0d-42c3-89d2-f0a20262d36a, DIRECT
